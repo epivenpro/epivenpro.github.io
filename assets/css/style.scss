@@ -2,6 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+@import "rouge-base16-dark";
+
+.highlighter-rouge .highlight {
+  background: #3a3c42;
+}
+
+pre, code {
+  background-color: #3a3c42;
+}
 
 /* Ugly hack until Rouge lexer fixes Puppet support */
 .language-puppet .highlight .err {
