@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Ugly hack until Rouge lexer fixes Puppet support */
+.language-puppet .highlight .err {
+  color: #cc4142;
+  background-color: transparent;
+}
