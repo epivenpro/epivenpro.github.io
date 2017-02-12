@@ -1,8 +1,9 @@
 ## About me
 
-### Welcome to my website
+### A few words about me
+* I love my wife. She's the best!
 
-There will definitely be more stuff here soon. Very soon.
+![This is me](/images/we_re_in_pai.jpg)
 
 ### Publicity
 
