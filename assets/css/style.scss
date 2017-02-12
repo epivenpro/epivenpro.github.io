@@ -4,14 +4,20 @@
 @import "{{ site.theme }}";
 @import "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css?family=Raleway:400,300,600');
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
 
-/* Make it work with rouge-base16-dark theme */
+/* Code formatting */
 .highlighter-rouge .highlight {
   background: #3a3c42;
 }
 
 pre, code {
   background-color: #3a3c42;
+  margin: 0 5px;
+  font-size: 14px;
+  font-family: Inconsolata, monospace;
+  font-weight: bold;
+  line-height: 134%;
 }
 
 /* Ugly hack until Rouge lexer fixes Puppet support */
@@ -22,7 +28,7 @@ pre, code {
 
 /* Nicer header */
 #header_wrap .inner {
-  padding: 15px 0px 0px 0px;
+  padding: 15px 0 0 0;
 }
 
 #forkme_banner {
