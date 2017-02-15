@@ -13,16 +13,14 @@
 
 pre, code {
   background-color: #3a3c42;
-  font-size: 15px;
-  font-family: Inconsolata, monospace;
-  font-weight: bold;
-  line-height: 134%;
+  font: 12px "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  line-height: 160%;
   color: #f8f8f2;
 }
 
 /* Ugly hack until Rouge lexer fixes Puppet support */
 .language-puppet .highlight .err {
-  color: #cc4142;
+  color: #cc6e41;
   background-color: transparent;
 }
 

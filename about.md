@@ -3,7 +3,7 @@
 ### A few words about me
 * I love my wife. She's the best!
 
-![This is me](/images/we_re_in_pai.jpg)
+![This is me](/assets/images/we_re_in_pai.jpg)
 
 ### Publicity
 
