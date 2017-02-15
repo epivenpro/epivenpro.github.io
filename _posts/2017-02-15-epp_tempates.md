@@ -4,11 +4,10 @@ title: EPP templates in Puppet
 
 These are seriously cool.
 
-You can do all these nifty thingies worthy of a mature language:
-* pass values to it
-* accept only a specific set of values
+Templates support all these nifty thingies worthy of a mature language:
+* accept a specific set of parameters
 * parameters support types!
-* call regular puppet functions
+* call regular puppet functions inside
 
 ```puppet
 <%- |
