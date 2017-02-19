@@ -6,3 +6,5 @@ timezone: Europe/Moscow
 permalink: pretty
 theme: jekyll-theme-slate
 exclude: ['Gemfile.lock', 'Gemfile', '.bundle/', 'CNAME']
+gems:
+  - jekyll-feed
