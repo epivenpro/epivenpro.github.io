@@ -5,7 +5,7 @@ title: Introduction to TDD
 [TDD](https://en.wikipedia.org/wiki/Test-driven_development) stands for Test-Driven Development and is a discipline
 where the primary idea is to write tests before writing any production code.
 
-This might seem weird at firts. It did to me too. But after playing around a bit with Puppet module testing, I am, as
+This might seem weird at first. It did to me too. But after playing around a bit with Puppet module testing, I am, as
 it seems, infinitely intrigued by the concept.
 
 On a quest to discover more, I came across this video: [The Three Laws of TDD](https://youtu.be/AoIfc5NwRks).
