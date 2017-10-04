@@ -25,10 +25,11 @@ for supporting a predictable infrastructe.
 
 ### Key Skills and Experience
 * **Cloud solutions**: AWS, GCE
+* **Technologies**: Docker, Terraform, Kubernetes
 * **Operating systems**: Ubuntu and other Linux-based distros, FreeBSD
 * **Infrastructure management**: Puppet, Ansible
 * **Languages**: Python, Bash, Ruby, Perl
-* **Version control**: Mercurial, git, Subversion
+* **Version control**: Mercurial, git
 * **Databases**: PostgreSQL, MongoDB, MySQL
 
 ### Public activity
@@ -40,6 +41,9 @@ for supporting a predictable infrastructe.
 * Being a TDI-enthusiast, here are a few puppet modules I wrote:
   * [cron](https://github.com/pegasd/puppet-cron)
   * [incron](https://github.com/pegasd/puppet-incron)
+* PRs to open-source projects:
+  * [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint): [1](https://github.com/voxpupuli/metadata-json-lint/pull/91)
+  * [puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper): [1](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/208) [2](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/206)
 * This site is actually [hosted](https://github.com/epivenpro/epivenpro.github.io) at GitHub Pages.
 
 ### Career Profile
