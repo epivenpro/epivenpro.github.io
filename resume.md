@@ -20,8 +20,8 @@ business requirements.
 Over 10 years of IT experience that includes GNU/Linux and other Unix-like distributions administration, automating all
 things, programming in Python, setting up configuration management.
 
-Firm believer in "The Right Way" of doing things: lintable code, declarable infrastructure, testing and other techniques
-for supporting a predictable infrastructe.
+Firm believer in "The Right Way" of doing things: idempotence and declarability of infrastructure code, automation,
+readability, testing, and other techniques for supporting a predictable infrastructe.
 
 ### Key Skills and Experience
 * **Cloud solutions**: AWS, GCE
@@ -36,6 +36,8 @@ for supporting a predictable infrastructe.
 * I performed at HighLoad++ 2016 conference with a talk about cloud and software traffic balancers.
   * Video (in Russian) is available [here](https://youtu.be/uDclCk8doG8).
   * There's a Habrahabr [post](https://habrahabr.ru/post/321560/) (also in Russian) about my presentation.
+* At HighLoad++ 2017 I gave a [talk](http://www.highload.ru/2017/abstracts/3033.html) about the way our team tests
+  and deploys infrastructure code.
 
 ### GitHub activity
 * Being a TDI-enthusiast, here are a few puppet modules I wrote:
