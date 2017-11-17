@@ -56,11 +56,11 @@ readability, testing, and other techniques for supporting a predictable infrastr
 * GCE: Compute Engine, GS, BigQuery, GLB
 * Environment: Ubuntu, Puppet, MongoDB, nginx, Python/Bash, Graphite
 
-* Supporting multiple projects hosted in AWS and GCE
+* Supporting multiple high-traffic and high-availability RTB projects hosted in AWS and GCE
 * Working closely with Development team
-* Developing Python/Bash scripts for internal needs
-* Developing Puppet modules
+* Developing and testing Puppet code / modules
 * Load balancer specialist
+* Developing Python/Bash/Ruby software
 
 #### Freelancing
 * December 2012 - May 2016
