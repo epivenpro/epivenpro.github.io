@@ -6,26 +6,28 @@
 * **E-mail**: [epiven@gmail.com](mailto:epiven@gmail.com)
 * **LinkedIn Profile**: [epiven](https://linkedin.com/in/epiven)
 * **Education**:
-  * CalState CompSci major (graduated in 2007)
-  * ACS Cobham (graduated in 2003)
-* **Languages spoken**:
+  * BS degree: CalState CompSci major (graduated in 2007)
+  * High School: ACS, Cobham (graduated in 2003)
+* **Language proficiency**:
   * Russian (native)
   * English (near-native)
-  * German (somewhat fluent)
+  * German (elementary)
 
 ### DevOps Engineer with Infrastructure in Mind
 Detailed experience in supporting an extremely highly loaded AWS/GCE cloud infrastructure. Ability to adapt to ever-changing
-business requirements.
+business and technology requirements.
 
 Over 10 years of IT experience that includes GNU/Linux and other Unix-like distributions administration, automating all
-things, programming in Python, setting up configuration management.
+things, programming in Python, developing and testing configuration management code.
 
 Firm believer in "The Right Way" of doing things: idempotence and declarability of infrastructure code, automation,
 readability, testing, and other techniques for supporting a predictable infrastructe.
 
 ### Key Skills and Experience
-* **Cloud solutions**: AWS, GCE
-* **Technologies**: Docker, Terraform, Kubernetes
+* **AWS**: EC2, Route53, S3, Glacier, CloudWatch, ELB
+* **GCE**: Compute Engine, Google Storage, BigQuery, Stackdriver, Network / HTTP LBs, Close communications with Google
+  support engineers
+* **Infrastructure Technologies**: Docker, Terraform, Kubernetes
 * **Operating systems**: Ubuntu and other Linux-based distros, FreeBSD
 * **Infrastructure management**: Puppet, Ansible
 * **Languages**: Python, Bash, Ruby, Perl
