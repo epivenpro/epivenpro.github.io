@@ -39,12 +39,16 @@ readability, testing, and other techniques for supporting a predictable infrastr
   * Video (in Russian) is available [here](https://youtu.be/uDclCk8doG8).
   * There's a Habrahabr [post](https://habrahabr.ru/post/321560/) (also in Russian) about my presentation.
 * At HighLoad++ 2017 I gave a [talk](http://www.highload.ru/2017/abstracts/3033.html) about the way our team tests
-  and deploys infrastructure code.
+  and deploys infrastructure code, specifically Puppet.
 
 ### GitHub activity
 * Being a TDI-enthusiast, here are a few puppet modules I wrote:
   * [cron](https://github.com/pegasd/puppet-cron)
   * [incron](https://github.com/pegasd/puppet-incron)
+* Gems:
+  * [puppetfile_editor](https://github.com/pegasd/puppetfile_editor) - A CLI tool to manage `Puppetfile`s
+  * [KeepTheChange](https://github.com/pegasd/keepthechange) - Interface for parsing CHANGELOG files that adhere to
+    [keep a changelog](http://keepachangelog.com/) format.
 * PRs to open-source projects:
   * [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint): [1](https://github.com/voxpupuli/metadata-json-lint/pull/91)
   * [puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper): [1](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/208) [2](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/206)
