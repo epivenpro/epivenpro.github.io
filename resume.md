@@ -50,7 +50,7 @@ readability, testing, and other techniques for supporting a predictable infrastr
   * [KeepTheChange](https://github.com/pegasd/keepthechange) - Interface for parsing CHANGELOG files that adhere to
     [keep a changelog](http://keepachangelog.com/) format.
 * PRs to open-source projects:
-  * [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib): [1](https://github.com/puppetlabs/puppetlabs-stdlib/pull/855)
+  * [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib): [1](https://github.com/puppetlabs/puppetlabs-stdlib/pull/855) [2](https://github.com/puppetlabs/puppetlabs-stdlib/pull/856)
   * [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint): [1](https://github.com/voxpupuli/metadata-json-lint/pull/91)
   * [puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper): [1](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/208) [2](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/206)
 * This site is actually [hosted](https://github.com/epivenpro/epivenpro.github.io) at GitHub Pages.
