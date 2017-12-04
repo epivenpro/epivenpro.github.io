@@ -37,7 +37,7 @@ readability, testing, and other techniques for supporting a predictable infrastr
 ### Public activity
 * I performed at HighLoad++ 2016 conference with a talk about cloud and software traffic balancers.
   * Video (in Russian) is available [here](https://youtu.be/uDclCk8doG8).
-  * There's a Habrahabr [post](https://habrahabr.ru/post/321560/) (also in Russian) about my presentation.
+  * There's a habrahabr [post](https://habrahabr.ru/post/321560/) (also in Russian) about my presentation.
 * At HighLoad++ 2017 I gave a [talk](http://www.highload.ru/2017/abstracts/3033.html) about the way our team tests
   and deploys infrastructure code, specifically Puppet.
 
@@ -56,62 +56,56 @@ readability, testing, and other techniques for supporting a predictable infrastr
 * This site is actually [hosted](https://github.com/epivenpro/epivenpro.github.io) at GitHub Pages.
 
 ### Career Profile
-#### IPONWEB
-* May 2016 to date
+#### IPONWEB (May 2016 to date)
 * Role: Project Ops Engineer
 * AWS: S3, EC2, CloudWatch, ELB
 * GCE: Compute Engine, GS, BigQuery, GLB
 * Environment: Ubuntu, Puppet, MongoDB, nginx, Python/Bash, Graphite
 
-* Supporting multiple high-traffic and high-availability RTB projects hosted in AWS and GCE
-* Working closely with Development team
-* Developing and testing Puppet code / modules
-* Load balancer specialist
-* Developing Python/Bash/Ruby software
+* Supported multiple high-traffic and high-availability RTB projects hosted in AWS and GCE
+* Worked closely with Development team
+* Developed and tested Puppet code / modules
+* Was a load balancer specialist
+* Developed Python/Bash/Ruby software
 
-#### Freelancing
-* December 2012 - May 2016
+#### Freelancing (December 2012 - May 2016)
 * Role: Contracting System Administrator
 
-* Supporting multiple Moscow-based offices
+* Supported multiple Moscow-based offices
 
-#### FM Logistic
-* February 2011 - December 2012
+#### FM Logistic (February 2011 - December 2012)
 * Role: System Administrator
 * Environment: VMWare, RedHat, apache, Lotus
 
-* Managing VMWare-based virtualized network of servers
-* Internal services
+* Managed VMWare-based virtualized network of servers
+* Managed internal services
 
-#### Russian Military Service
-* November 2009 - November 2010
+#### Russian Military Service (November 2009 - November 2010)
 * Role: private
-* Environment: practically non-existant
+* Environment: practically non-existent
 
-* Supporting a FreeBSD-based server with a MySQL database
-* Maintaining a sense of humor even during a Russian winter with a hole in my shoe
+* Supported a FreeBSD-based server with a MySQL database
+* Maintained a sense of humor even during a Russian winter with a hole in my shoe
 
-#### Marathon BC
-* November 2008 - July 2009
+#### Marathon BC (November 2008 - July 2009)
 * Role: Lead System Administrator
 * Environment: Linux, apache, nagios
 
-* Administering internal company services (MTA, apache, databases, sip, nagios)
-* Configuring text message and other forms of notifications through nagios scripts
-* Process automation through various scripts
-* Installing and configuring servers for various company needs
-* Staff support
+* Administered internal company services (MTA, apache, databases, sip, nagios)
+* Configured text message and other forms of notifications through nagios scripts
+* Implemented process automation through various scripts
+* Installed and configured servers for various company needs
+* Supported internal staff
 
-#### Nival Online
-* March 2007 - August 2008
+#### Nival Online (March 2007 - August 2008)
 * Role: System Programmer
 * Environment: Linux, svn, postfix, jabber, subversion
 
-* Binding LDAP authentication with multiple inside services (MTA, wiki, subversion, jabber, web)
-* Writing a commit hook system for subversion for internal company needs
-* Administering internal services (MTA, db, web, subversion, bugzilla)
-* Adding new features for service front-ends
-* Setting up and supporting game servers
-* Setting up and supporting general purpose servers for the company
-* Staff support
-* Minor server-side game development in Java
+* Bound LDAP authentication with multiple inside services (MTA, wiki, subversion, jabber, web)
+* Wrote a commit hook system for subversion for internal company needs
+* Administered internal services (MTA, db, web, subversion, bugzilla)
+* Added new features for service front-ends
+* Set up and supporting game servers
+* Set up and supporting general purpose servers for the company
+* Supported internal staff
+* Developed minor server-side gaming structures in Java
