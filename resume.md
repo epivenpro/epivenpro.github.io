@@ -21,7 +21,7 @@ Over 10 years of IT experience that includes GNU/Linux and other Unix-like distr
 things, programming in Python, developing and testing configuration management code.
 
 Firm believer in "The Right Way" of doing things: idempotence and declarability of infrastructure code, automation,
-readability, testing, and other techniques for supporting a predictable infrastructe.
+readability, testing, and other techniques for supporting a predictable infrastructure.
 
 ### Key Skills and Experience
 * **AWS**: EC2, Route53, S3, Glacier, CloudWatch, ELB
