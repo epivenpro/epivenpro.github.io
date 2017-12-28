@@ -36,10 +36,11 @@ readability, testing, and other techniques for supporting a predictable infrastr
 
 ### Public activity
 * I performed at HighLoad++ 2016 conference with a talk about cloud and software traffic balancers.
-  * Video (in Russian) is available [here](https://youtu.be/uDclCk8doG8).
+  * Video (in Russian) is available [here](https://youtu.be/enX5K6szzy8).
   * There's a habrahabr [post](https://habrahabr.ru/post/321560/) (also in Russian) about my presentation.
 * At HighLoad++ 2017 I gave a [talk](http://www.highload.ru/2017/abstracts/3033.html) about the way our team tests
   and deploys infrastructure code, specifically Puppet.
+  * Video (in Russian) is available [here](https://youtu.be/m1bsCy8dryA).
 
 ### GitHub activity
 * Being a TDI-enthusiast, here are a few puppet modules I wrote:
