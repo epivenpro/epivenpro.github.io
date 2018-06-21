@@ -43,7 +43,7 @@ mistakes". It fails, then it passes. Shabang! Rewarding (-
 * And, most importantly, **if your test suite has been produced by TDD then when it passes, you can be sure you're
 ready to deploy**.
 
-These all sound like bald promises and they are. Whether the benefits are worthy of rewriting the legacy infrastructure
+These all sound like bold promises and they are. Whether the benefits are worthy of rewriting the legacy infrastructure
 (more on that is in the question section) is up to you.
 
 I'll definitely get back to the concept and the discipline of TDD, and the way I  use it to write infrastructure code.
