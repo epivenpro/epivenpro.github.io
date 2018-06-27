@@ -2,7 +2,7 @@
 title: bundle config path ~/.bundle
 ---
 
-This has seriously been bugging me. I even made this post to prove it.
+This has seriously been bugging me. I even posted this to prove it.
 
 I've been wondering why this never worked:
 
