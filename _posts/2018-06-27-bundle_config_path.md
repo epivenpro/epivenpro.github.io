@@ -17,7 +17,7 @@ Set for the current user (/Users/pegas/.bundle/config): "/Users/pegas/.bundle"
 Yet still every time I would try to install gems with `bundle install`, they will inevitably
 end up in the system gem directory.
 
-Well, having completely wiping out a bunch of `rvm` rubies and then installing them back again,
+Well, after wiping out a bunch of `rvm` rubies and then installing them back again,
 I decided to Google up and found this guy:
 
 ```bash
