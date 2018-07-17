@@ -53,7 +53,7 @@ readability, testing, and other techniques for supporting a predictable infrastr
 * PRs to open-source projects:
   * [puppetlabs-stdlib](https://github.com/puppetlabs/puppetlabs-stdlib): [1](https://github.com/puppetlabs/puppetlabs-stdlib/pull/855) [2](https://github.com/puppetlabs/puppetlabs-stdlib/pull/856)
   * [metadata-json-lint](https://github.com/voxpupuli/metadata-json-lint): [1](https://github.com/voxpupuli/metadata-json-lint/pull/91)
-  * [puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper): [1](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/208) [2](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/206)
+  * [puppetlabs_spec_helper](https://github.com/puppetlabs/puppetlabs_spec_helper): [1](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/208) [2](https://github.com/puppetlabs/puppetlabs_spec_helper/pull/206) [3](https://github.com/puppetlabs/puppetlabs-stdlib/pull/877)
 * This site is actually [hosted](https://github.com/epivenpro/epivenpro.github.io) at GitHub Pages.
 
 ### Career Profile
