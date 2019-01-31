@@ -63,7 +63,7 @@ readability, testing, and other techniques for supporting a predictable infrastr
 * In addition to previous technical duties, I also:
   * Hired people for the Project Ops Engineer position
   * Set goals and performed reviews for team members
-
+  * Participated in decision-making for company technological solutions
 
 #### IPONWEB (May 2016 - January 2018)
 * Role: Project Ops Engineer
