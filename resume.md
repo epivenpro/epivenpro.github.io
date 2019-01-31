@@ -24,8 +24,8 @@ Firm believer in "The Right Way" of doing things: idempotence and declarability 
 readability, testing, and other techniques for supporting a predictable infrastructure.
 
 ### Key Skills and Experience
-* **AWS**: EC2, Route53, S3, Glacier, CloudWatch, ELB
-* **GCE**: Compute Engine, Google Storage, BigQuery, Stackdriver, Network / HTTP LBs, Close communications with Google
+* **AWS**: EC2, Route53, S3, CloudWatch, ELB
+* **GCE**: Compute Engine, Google Storage, BigQuery, Stackdriver, Network / HTTP LBs, clos communications with Google
   support engineers
 * **Infrastructure Technologies**: Docker, Terraform, Kubernetes
 * **Operating systems**: Ubuntu and other Linux-based distros, FreeBSD
@@ -57,7 +57,15 @@ readability, testing, and other techniques for supporting a predictable infrastr
 * This site is actually [hosted](https://github.com/epivenpro/epivenpro.github.io) at GitHub Pages.
 
 ### Career Profile
-#### IPONWEB (May 2016 to date)
+#### IPONWEB (January 2018 to date)
+* Role: Project Ops Engineer Team Lead
+
+* In addition to previous technical duties, I also:
+  * Hired people for the Project Ops Engineer position
+  * Set goals and performed reviews for team members
+
+
+#### IPONWEB (May 2016 - January 2018)
 * Role: Project Ops Engineer
 * AWS: S3, EC2, CloudWatch, ELB
 * GCE: Compute Engine, GS, BigQuery, GLB
